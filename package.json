@@ -10,9 +10,9 @@
     "postinstall": "curl -s https://raw.githubusercontent.com/reactorcore/pomander/master/bin/install | bash"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.2",
-    "lodash": "^4.6.1",
-    "angular": "^1.6"
+    "angular": "^1.7.9",
+    "bootstrap": "^4.4.1",
+    "lodash": "^4.6.1"
   },
   "devDependencies": {
     "angular-mocks": "^1.6.2",
